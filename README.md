@@ -1,2 +1,2 @@
 # Team-Page
-Team page design with grids and SASS
+Responsive team page design with grids and SASS
