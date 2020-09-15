@@ -1,0 +1,16 @@
+.container{
+    display: grid;
+    margin: 0px 150px 70px 75px;
+    grid-template-columns: repeat(3,1fr);
+    // grid-template-rows: 150px 400px 400px;
+    gap: 50px 100px;
+    &__right{   
+        grid-column: 2/4;
+    }
+    &__img2{
+        padding-top: 80px;
+    }
+    &__img5{
+        padding-top: 80px;
+    }
+}
